@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clients>
+  <client ID="1">
+    <name>Danik</name>
+    <regular amount="20223900">true</regular>
+    <credit amount="12345675">true</credit>
+  </client>
+  <client ID="2">
+    <name>Danik</name>
+    <regular amount="101">true</regular>
+    <credit amount="-1">false</credit>
+  </client>
+  <client ID="3">
+    <name>Danik</name>
+    <regular amount="100">true</regular>
+    <credit amount="12345675">true</credit>
+  </client>
+  <client ID="4">
+    <name>Daniyar</name>
+    <regular amount="123">true</regular>
+    <credit amount="10000">true</credit>
+  </client>
+  <client ID="5">
+    <name></name>
+    <regular amount="-1">false</regular>
+    <credit amount="-1">false</credit>
+  </client>
+  <client ID="6">
+    <name></name>
+    <regular amount="123455">true</regular>
+    <credit amount="-1">false</credit>
+  </client>
+</clients>

@@ -1,0 +1,13 @@
+C:\MyProjects\с# projects\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+C:\MyProjects\с# projects\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+C:\MyProjects\с# projects\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+C:\MyProjects\с# projects\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+C:\MyProjects\с# projects\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+C:\MyProjects\с# projects\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+C:\MyProjects\с# projects\Exam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+C:\MyProjects\с# projects\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\MyProjects\с# projects\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+C:\MyProjects\с# projects\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\MyProjects\с# projects\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+C:\MyProjects\с# projects\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+C:\MyProjects\с# projects\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
